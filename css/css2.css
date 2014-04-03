@@ -1,0 +1,65 @@
+.wrap {
+width: 950px;
+margin: 10px;
+background:none;
+}
+
+.main {
+float:left;
+width:600px;
+margin-left: 175px;
+background:none;
+}
+
+.sidebar {
+float:right;
+width:250px;
+background:none;
+margin-right: -100px;
+
+}
+
+.blocky {
+	border-left: solid;
+	height: 50px;
+	color: gray;
+}
+
+.container{
+
+	background-color: none;
+	width: 500px;
+	margin-left: 350px;
+
+}
+.container > hr {
+	margin-left: -400px;
+	float: left;
+
+}
+.posts {
+	display:inline-block;
+	float:left;
+	border-radius: 10px;
+	margin-left: -300px;
+
+}
+ }
+
+ .column-left{
+ 	width:25%;
+ }
+
+ .posttext {
+ 	/*display: inline-block;
+	height:100px;
+	float: left;
+	width: 50%;
+	background: transparent;
+	float: left;
+	text-decoration: none;
+	color: black;
+	margin:0;
+	padding:0;
+	font-family:'Nobile', sans-serif;*/
+ }
